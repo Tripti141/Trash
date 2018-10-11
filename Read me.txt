@@ -1,0 +1,8 @@
+Name: Nasima Ferdous Tripti
+Id: 1411222042
+
+I used C++ 
+
+After going to the diretory where I saved my code I have to
+write cmd and then write Assignment.exe input.text Bremen Frankfurt
+
